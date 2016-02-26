@@ -18,20 +18,16 @@ html {
   box-sizing: inherit;
 }
 
-#injury {
-
-}
-
-#injury:hover {
-
-}
-
 #sportsdude {
-  width: 100%;
+  width: 150%;
+  position: relative;
 }
 
 #injury {
   width: 100%;
+  position: absolute;
+  left: 50px;
+  top: 10px;
 }
 
 #injury2 {
@@ -43,6 +39,18 @@ html {
 }
 
 #injury4 {
+  width: 100%;
+}
+
+#injury5 {
+  width: 100%;
+}
+
+#injury6 {
+  width: 100%;
+}
+
+#injury7 {
   width: 100%;
 }
 
